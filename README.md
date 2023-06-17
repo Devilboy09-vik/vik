@@ -1,2 +1,0 @@
-# vik
-Created with CodeSandbox
